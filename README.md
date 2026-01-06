@@ -1,2 +1,4 @@
 # AI_model_and_algorithm_final
 The final assignment repository
+
+压缩文件中一共有两个部分，其中maze_rl为第八题、ensemble_classification为第九题。
